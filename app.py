@@ -54,7 +54,7 @@ def convert_temperature():
 root = tk.Tk()
 root.title("Temperature Converter")
 root.geometry("400x300")
-root.resizable(False, False) # Prevent the window from being resized.
+#root.resizable(False, False) # Prevent the window from being resized.
 
 # Create a main frame to hold all the widgets. This helps with organization.
 main_frame = ttk.Frame(root, padding="20 20 20 20")
