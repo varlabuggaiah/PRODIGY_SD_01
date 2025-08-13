@@ -2,14 +2,14 @@
 
 A user-friendly desktop application built with Python and Tkinter for converting temperatures between Celsius, Fahrenheit, and Kelvin scales. This project was created as a task for the Prodigy InfoTech internship.
 
-## ✨ Features
+##  Features
 
 -   Clean and intuitive graphical user interface.
 -   Convert from Celsius, Fahrenheit, or Kelvin.
 -   Displays results for the other two units.
 -   Includes error handling for invalid (non-numeric) input.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  Clone this repository to your local machine.
 2.  Navigate into the project directory.
@@ -22,7 +22,3 @@ A user-friendly desktop application built with Python and Tkinter for converting
     ```bash
     python app.py
     ```
-
-## 📸 Screenshot
-
-*(You can add a screenshot of your application here later by editing this file directly on GitHub.)*
