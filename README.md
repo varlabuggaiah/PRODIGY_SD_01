@@ -1,6 +1,6 @@
 # Temperature Converter GUI
 
-A user-friendly desktop application built with Python and Tkinter for converting temperatures between Celsius, Fahrenheit, and Kelvin scales. This project was created as a task for the Prodigy InfoTech internship.
+A user-friendly desktop application built with Python and Tkinter for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.
 
 ##  Features
 
